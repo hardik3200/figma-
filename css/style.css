@@ -1284,5 +1284,17 @@ input[type="email"], input[type="submit"] {
 .middle-link ul li {
     padding-right: 15px;
 }
-
+.input-section{
+	background: none;
+	padding: 0;
+}
+.input-section input[type="text"] {
+    max-width: none;
+    height: 50px;
+    margin: 0;
+}
+.google-left .table .table-cell:first-child {
+    width: 10px;
+   
+}
 }
